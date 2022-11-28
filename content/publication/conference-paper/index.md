@@ -13,11 +13,11 @@ abstract: Although all-in-one-model multilingual neural machine translation
   transferring. Experimental results on three datasets show that LSSD obtains
   consistent improvements towards all language pairs and achieves the
   state-of-the-art.
-url_pdf: "Unifying_the_Convergences_in_Multilingual_Neural_Machine_Translation__Camera_Ready.pdf"
+url_pdf: "./Unifying_the_Convergences_in_Multilingual_Neural_Machine_Translation__Camera_Ready.pdf"
 publication_types:
   - "1"
 authors:
-  - **Yichong Huang**
+  - admin
   - Xinwei Geng
   - Xiaocheng Feng
   - Bing Qin
@@ -35,5 +35,5 @@ image:
   preview_only: false
 date: 2022-11-28T13:59:00.000Z
 publishDate: 2022-11-28T13:59:00.000Z
-url_code: [https://github.com/wowchemy/wowchemy-hugo-themes](https://github.com/OrangeInSouth/LSSD)
+url_code: [https://github.com/OrangeInSouth/LSSD](https://github.com/OrangeInSouth/LSSD)
 ---
