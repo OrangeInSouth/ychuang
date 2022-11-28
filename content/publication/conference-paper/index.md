@@ -18,7 +18,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
+  - "**Yichong Huang**"
   - Xinwei Geng
   - Xiaocheng Feng
   - Bing Qin
