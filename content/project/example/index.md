@@ -15,7 +15,7 @@ links:
     name: Follow
     url: https://mt.pcl.ac.cn/
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 url_code: ""
 ---
