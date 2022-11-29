@@ -22,7 +22,7 @@ abstract: Although all-in-one-model multilingual neural machine translation
   consistent improvements towards all language pairs and achieves the
   state-of-the-art.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
