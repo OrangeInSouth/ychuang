@@ -7,6 +7,7 @@ authors:
   - Xiaocheng Feng
   - Xinwei Geng
   - Bing Qin
+publication: EMNLP2022
 abstract: Although all-in-one-model multilingual neural machine translation
   (MNMT) has achieved remarkable progress, the convergence inconsistency in the
   joint training is ignored, i.e.,different language pairs reaching convergence
