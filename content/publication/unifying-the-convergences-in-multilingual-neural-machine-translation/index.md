@@ -3,7 +3,7 @@ title: Unifying the Convergences in Multilingual Neural Machine Translation
 publication_types:
   - "1"
 authors:
-  - Yichong Huang
+  - admin
   - Xiaocheng Feng
   - Xinwei Geng
   - Bing Qin
