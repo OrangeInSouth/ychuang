@@ -17,7 +17,7 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  filename: 丝路翻译系统.png
+  filename: featured.jpg
 url_code: ""
 ---
 A﻿ multilingual translation platform supported to translate Chinese to/from other 40 languages.
