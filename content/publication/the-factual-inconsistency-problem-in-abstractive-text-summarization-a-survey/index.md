@@ -1,7 +1,6 @@
 ---
 title: "The Factual Inconsistency Problem in Abstractive Text Summarization: A Survey"
 publication_types:
-  - "0"
   - "3"
 authors:
   - Yichong Huang
