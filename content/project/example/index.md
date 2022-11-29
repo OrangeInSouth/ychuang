@@ -3,7 +3,7 @@ slides: example
 url_pdf: ""
 summary: ""
 url_video: ""
-date: 2016-04-27T00:00:00.000Z
+date: 2022-11-29T09:23:12.342Z
 external_link: ""
 url_slides: ""
 title: Pengcheng·SilkRoad Translation System
