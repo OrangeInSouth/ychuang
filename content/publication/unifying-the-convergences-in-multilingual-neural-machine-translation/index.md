@@ -1,7 +1,6 @@
 ---
 title: Unifying the Convergences in Multilingual Neural Machine Translation
 publication_types:
-  - "0"
   - "1"
 authors:
   - Yichong Huang
