@@ -30,5 +30,5 @@ highlight_name: true
 first_name: Alice
 email: ychuang@ir.hit.edu.cn
 ---
-I'm a Ph.. student in Research Center for Social Computing and Information Retrieval at Harbin Institute of Technology (HIT, China). My research interests focus on Natural Language Processing, Neural Machine Translation and Knowledge Distillation. Specially, I'm interested in improving multilingual neural machine translation.
+I'm a second year Ph.D. student in Research Center for Social Computing and Information Retrieval at Harbin Institute of Technology (HIT, China). My research interests focus on Natural Language Processing, Neural Machine Translation and Knowledge Distillation. Specially, I'm interested in improving multilingual neural machine translation. 
 {style="text-align: justify;"}
