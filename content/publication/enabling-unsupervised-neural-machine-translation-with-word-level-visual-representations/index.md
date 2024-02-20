@@ -6,14 +6,14 @@ publication_types:
 authors:
   - Chengpeng Fu
   - Xiaocheng Feng
-  - \*\*Yichong Huang\*\*
+  - "**Yichong Huang**"
   - Wenshuai Huo
   - Hui Wang
   - Bing Qin
   - Ting Liu
 publication: EMNLP2023 Findings
-abstract: Unsupervised neural machine translation has recently made remarkable
-  strides, achieving impressive results with the exclusive use of monolingual
+abstract: Unsupervised neural machine translation has recently made **remarkable
+  strides**, achieving impressive results with the exclusive use of monolingual
   corpora. Nonetheless, these methods still exhibit fundamental flaws, such as
   confusing similar words. A straightforward remedy to rectify this drawback is
   to employ bilingual dictionaries, however, high-quality bilingual dictionaries
