@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Chengpeng Fu
   - Xiaocheng Feng
-  - "**Yichong Huang**"
+  - \*\*Yichong Huang\*\*
   - Wenshuai Huo
   - Hui Wang
   - Bing Qin
