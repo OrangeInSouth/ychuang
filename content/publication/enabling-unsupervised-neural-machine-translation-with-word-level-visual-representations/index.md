@@ -2,18 +2,19 @@
 title: Enabling Unsupervised Neural Machine Translation with Word-level Visual
   Representations
 publication_types:
+  - "1"
   - "0"
 authors:
   - Chengpeng Fu
   - Xiaocheng Feng
-  - "**Yichong Huang**"
+  - "*Yichong Huang*"
   - Wenshuai Huo
   - Hui Wang
   - Bing Qin
   - Ting Liu
 publication: EMNLP2023 Findings
-abstract: Unsupervised neural machine translation has recently made **remarkable
-  strides**, achieving impressive results with the exclusive use of monolingual
+abstract: Unsupervised neural machine translation has recently made remarkable
+  strides, achieving impressive results with the exclusive use of monolingual
   corpora. Nonetheless, these methods still exhibit fundamental flaws, such as
   confusing similar words. A straightforward remedy to rectify this drawback is
   to employ bilingual dictionaries, however, high-quality bilingual dictionaries
@@ -32,5 +33,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-02-20T11:08:20.039Z
+date: 2023-11-30T21:17:00.000Z
 ---
