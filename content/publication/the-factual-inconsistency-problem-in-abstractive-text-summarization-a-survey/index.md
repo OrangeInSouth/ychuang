@@ -8,7 +8,7 @@ authors:
   - Xiaocheng Feng
   - Bing Qin
 publication: arXiv
-abstract: Recently, various neural encoder-decoder models pioneered by Seq2Seq
+abstract: "Recently, various neural encoder-decoder models pioneered by Seq2Seq
   framework have been proposed to achieve the goal of generating more
   abstractive summaries by learning to map input text to output text. At a high
   level, such neural models can freely generate summaries without any constraint
@@ -24,7 +24,7 @@ abstract: Recently, various neural encoder-decoder models pioneered by Seq2Seq
   evaluation metrics to select outputs without factual inconsistency errors, and
   the other is to develop new summarization systems towards factual consistency.
   In this survey, we focus on presenting a comprehensive review of these
-  fact-speciﬁc evaluation methods and text summarization models.
+  fact-speciﬁc evaluation methods and text summarization models. "
 draft: false
 featured: false
 image:
