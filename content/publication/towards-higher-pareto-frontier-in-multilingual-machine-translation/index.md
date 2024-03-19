@@ -24,7 +24,7 @@ abstract: Multilingual neural machine translation has witnessed remarkable
   a novel strategy to enable stronger communication between Pareto optimal
   solutions and broaden the applicability of our approach. Experimental results
   on the widely-used WMT and TED datasets show that our method significantly
-  pushes the Pareto frontier and outperforms baselines by up to +2.46 BLEU
+  pushes the Pareto frontier and outperforms baselines by up to +2.46 BLEU.
 draft: false
 featured: false
 image:
