@@ -8,7 +8,7 @@ authors:
   - Xinwei Geng
   - Bing Qin
 publication: EMNLP2022
-abstract: Although all-in-one-model multilingual neural machine translation
+abstract: "Although all-in-one-model multilingual neural machine translation
   (MNMT) has achieved remarkable progress, the convergence inconsistency in the
   joint training is ignored, i.e.,different language pairs reaching convergence
   in different epochs. This leads to the trained MNMT model over-fitting
@@ -21,7 +21,7 @@ abstract: Although all-in-one-model multilingual neural machine translation
   systematically explore three sample-level manipulations of knowledge
   transferring. Experimental results on three datasets show that LSSD obtains
   consistent improvements towards all language pairs and achieves the
-  state-of-the-art.
+  state-of-the-art. "
 draft: false
 featured: false
 image:
