@@ -12,7 +12,7 @@ authors:
   - Bing Qin
   - Ting Liu
 publication_short: Under Review
-abstract: Large language models (LLMs) have shown complementary strengths in
+abstract: "Large language models (LLMs) have shown complementary strengths in
   various tasks and instances, motivating the research of ensembling LLMs to
   push the frontier leveraging the wisdom of the crowd. Existing work achieves
   this objective via training the extra reward model or fusion model to select
@@ -32,7 +32,7 @@ abstract: Large language models (LLMs) have shown complementary strengths in
   ensemble of various LLMs of 6B to 70B. Experimental results show that DeePEn
   achieves consistent improvements across six popular benchmarks involving
   subject examination, reasoning and knowledge-QA, proving the effectiveness of
-  our approach.
+  our approach. "
 draft: false
 featured: false
 image:
