@@ -30,4 +30,4 @@ highlight_name: true
 first_name: Alice
 email: ychuang@ir.hit.edu.cn
 ---
-I'm a fourth-year Ph.D. student in the Research Center for Social Computing and Information Retrieval at Harbin Institute of Technology (HIT, China). My research focuses on Natural Language Processing, specifically on Large Language Models (LLMs) and Neural Machine Translation (NMT). Recently, my research has focused on multi-model collaborative training and inference. {style="text-align: justify;"}
+I'm a fourth-year Ph.D. student in the Research Center for Social Computing and Information Retrieval at Harbin Institute of Technology (HIT, China). My research focuses on Natural Language Processing, specifically on Large Language Models (LLMs) and Neural Machine Translation (NMT). Recently, my research has focused on multi-model collaborative training and inference.
