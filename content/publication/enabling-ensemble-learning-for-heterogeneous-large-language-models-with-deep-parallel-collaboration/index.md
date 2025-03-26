@@ -1,6 +1,6 @@
 ---
-title: Enabling Ensemble Learning for Heterogeneous Large Language Models with
-  Deep Parallel Collaboration
+title: Ensemble Learning for Heterogeneous Large Language Models with Deep
+  Parallel Collaboration
 publication_types:
   - "1"
 authors:
@@ -11,28 +11,30 @@ authors:
   - Hui Wang
   - Bing Qin
   - Ting Liu
-publication_short: Under Review
-abstract: "Large language models (LLMs) have shown complementary strengths in
-  various tasks and instances, motivating the research of ensembling LLMs to
-  push the frontier leveraging the wisdom of the crowd. Existing work achieves
-  this objective via training the extra reward model or fusion model to select
-  or fuse all candidate answers. However, these methods pose a great challenge
-  to the generalizability of the trained models. Besides, existing methods use
-  the textual responses as communication media, ignoring the rich information in
-  the inner representations of neural networks. Therefore, we propose a
-  training-free ensemble framework DeePEn, averaging the probability
-  distributions outputted by different LLMs. A key challenge in this paradigm is
-  the vocabulary discrepancy between heterogeneous LLMs, which hinders the
-  operation of probability distribution averaging. To address this challenge,
-  DeePEn maps the probability distribution of each model from the probability
-  space to a universe relative space based on the relative representation
-  theory, and performs aggregation. Then, the result of aggregation is mapped
-  back to the probability space of one LLM via a search-based inverse
-  transformation to determine the generated token. We conduct experiments on the
-  ensemble of various LLMs of 6B to 70B. Experimental results show that DeePEn
-  achieves consistent improvements across six popular benchmarks involving
-  subject examination, reasoning and knowledge-QA, proving the effectiveness of
-  our approach. "
+publication_short: NeurIPS2024 (Spotlight)
+abstract: Large language models (LLMs) exhibit complementary strengths in
+  various tasks, motivating the research of LLM ensembling. However, existing
+  work focuses on training an extra reward model or fusion model to select or
+  combine all candidate answers, posing a great challenge to the generalization
+  on unseen data distributions. Besides, prior methods use textual responses as
+  communication media, ignoring the valuable information in the internal
+  representations. In this work, we propose a training-free ensemble framework
+  DeePEn, fusing the informative probability distributions yielded by different
+  LLMs at each decoding step. Unfortunately, the vocabulary discrepancy between
+  heterogeneous LLMs directly makes averaging the distributions unfeasible due
+  to the token misalignment. To address this challenge, DeePEn maps the
+  probability distribution of each model from its own probability space to a
+  universal relative space based on the relative representation theory, and
+  performs aggregation. Next, we devise a search-based inverse transformation to
+  transform the aggregated result back to the probability space of one of the
+  ensembling LLMs (main model), in order to determine the next token. We conduct
+  extensive experiments on ensembles of different number of LLMs, ensembles of
+  LLMs with different architectures, and ensembles between the LLM and the
+  specialist model. Experimental results show that (i) DeePEn achieves
+  consistent improvements across six benchmarks covering subject examination,
+  reasoning, and knowledge, (ii) a well-performing specialist model can benefit
+  from a less effective LLM through distribution fusion, and (iii) DeePEn has
+  complementary strengths with other ensemble methods such as voting.
 draft: false
 featured: false
 image:
