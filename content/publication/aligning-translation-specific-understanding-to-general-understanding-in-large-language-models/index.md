@@ -11,7 +11,7 @@ authors:
   - Wenshuai Huo
   - Ting Liu
   - Bing Qin
-publication: Under Review
+publication: EMNLP2024
 abstract: "Although large language models (LLMs) have shown surprising language
   understanding and generation capabilities, they have yet to gain a
   revolutionary advancement in the field of machine translation. One potential
